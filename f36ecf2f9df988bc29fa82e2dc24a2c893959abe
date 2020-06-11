@@ -1,0 +1,1 @@
+{"jobID":"ec8ea3d6-663e-83bb-85ad-370dd6ee478b","spec":{"type":"policy","cause":{"Message":"","User":"rajibmitra \u003cfiorm.github@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
